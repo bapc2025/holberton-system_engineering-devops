@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 764 chgrp hello
+chmod chgrp 764 hello
