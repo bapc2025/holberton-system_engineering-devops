@@ -1,0 +1,2 @@
+#!/bin/bash
+pwd "Hello, World." ls > 0-hellop_world
